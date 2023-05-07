@@ -1,0 +1,13 @@
+.App{
+  background: url('./assets/map2.jpg');
+  background-size: cover;
+  background-attachment: fixed;
+}
+#containerGeneral{
+  width: 100%;
+  min-height: 925px;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+}

@@ -1,0 +1,21 @@
+#list {
+  width: 100vw;
+  height: 50px;
+  color: black;
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+}
+#list ul {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  list-style-type: none;
+}
+#list ul li {
+  padding: 0px 15px;
+  color: white;
+}
+#list ul li a img{
+  width: 42px;
+}
